@@ -7,7 +7,7 @@
 
  The functionality of the heat control system is coded in Embedded C programming and executed in CodeBlocks and Visual Studio Code and working is demonstrated using simulated circuit using SimulIDE software.
 
-## Fuctions
+## Functions
 
 *  When the two switches (button sensor and heater enable) are openedor any one of the switch is opened, the LED is OFF indicating heater is not enable.
 *  If both swiches are closed analog input from the temperature sensor is received and converts analog to digital value.
