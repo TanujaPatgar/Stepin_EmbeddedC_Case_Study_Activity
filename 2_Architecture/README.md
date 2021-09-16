@@ -4,3 +4,6 @@
 
 
 # Hardware diagram
+
+![image](https://user-images.githubusercontent.com/89603034/133593866-054cc74c-322b-4650-b812-36cd2f517019.png)
+
