@@ -18,7 +18,7 @@
 
 | Build | Cppcheck | Codacy | Main |
 | ----- | -------- | ------ | ----
-|       |          |        | [![CI](https://github.com/TanujaPatgar/Stepin_EmbeddedC_Case_Study_Activity/actions/workflows/main.yml/badge.svg)](https://github.com/TanujaPatgar/Stepin_EmbeddedC_Case_Study_Activity/actions/workflows/main.yml) |
+| [![Compile-Linux](https://github.com/TanujaPatgar/Stepin_EmbeddedC_Case_Study_Activity/actions/workflows/Compile.yml/badge.svg)](https://github.com/TanujaPatgar/Stepin_EmbeddedC_Case_Study_Activity/actions/workflows/Compile.yml) |          |        | [![CI](https://github.com/TanujaPatgar/Stepin_EmbeddedC_Case_Study_Activity/actions/workflows/main.yml/badge.svg)](https://github.com/TanujaPatgar/Stepin_EmbeddedC_Case_Study_Activity/actions/workflows/main.yml) |
 
 ## In Action
 
