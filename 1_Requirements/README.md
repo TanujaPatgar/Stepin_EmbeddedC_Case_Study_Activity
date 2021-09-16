@@ -45,6 +45,8 @@ The heat control system is used to control the temperature of a vehicle seat. Wh
 
 ## SWOT Analysis
 
+https://github.com/TanujaPatgar/Stepin_EmbeddedC_Case_Study_Activity/blob/main/1_Requirements/swot_analysis.png?raw=true
+
 ## 4W's and 1H
 
 ### Who
