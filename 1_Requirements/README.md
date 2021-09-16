@@ -75,7 +75,6 @@ The mannually control temperature will be take more times and complex to underst
 | R05 | Display CDD-CRO will give the temperature value by showing PWM | Technical | Implemented |
 | R06 | Display digital temperature values in serial monitor using USART communication protocol | Technical | Implemented |
 
-
 ## Components used for Simulation
 
 | SL. No. | Components | Specifications | No. of components used |
@@ -89,6 +88,3 @@ The mannually control temperature will be take more times and complex to underst
 | 07 | Fixed voltage | 5V | 01 |
 | 08 | Oscilloscope | --- | 01 |
 | 09 | wires |  | 15 |
-
-
-
