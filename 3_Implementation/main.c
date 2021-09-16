@@ -28,7 +28,7 @@ int main(void)
     buttonsLED_Init();
     ADC_Init();
     USART_Init(103);/*Initialize ports for USART*/
-    // uint16_t temp=0;/* temperature value*/
+    uint16_t temp=0;/* temperature value*/
     while(1)
     {
     if(SENSORON)                   /* Button Sensor ON*/
