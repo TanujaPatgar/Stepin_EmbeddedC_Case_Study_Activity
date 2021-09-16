@@ -51,16 +51,44 @@ The heat control system is used to control the temperature of a vehicle seat. Wh
 
 ### Who
 
+Vehicle(Car)
 ### What
 
+A contol the seat temperature mannually becomes tedious.
 ### When
 
+When user wants to check temperature also contol temperature quickly and the reduces the lots of mannual works.
 ### Where
 
+This issue can be seen in all types of vehicle especially car where the controlling the car seats of temperature actions happens.
 ### How
 
+The mannually control temperature will be take more times and complex to understand tempearture values.
 ## Detail Requirements
 
-## Components used for simulation
+| ID | Description | Category | Status |
+| -- | ----------- | -------- | ------
+| R01 | If passengers seated on the car button sensor will be activated | Technical | Implemented |
+| R02 | After passenger and driver seated, the user needs to enable the heater sensor | Technical | Implemented |
+| R03 | Enabling both button and heater sensor, LED will be ON (binary output) | Technical | Implemented |
+| R04 | Reads temperature information from temperature sensor and convert analong inputs to digital using ADC | Technical | Implemented |
+| R05 | Display CDD-CRO will give the temperature value by showing PWM | Technical | Implemented |
+| R06 | Display digital temperature values in serial monitor using USART communication protocol | Technical | Implemented |
+
+
+## Components used for Simulation
+
+| SL. No. | Components | Specifications | No. of components used |
+| ------- | ---------- | -------------- | -----------------------
+| 01 | ATmega328 | AVR Microcontroller | 01 |
+| 02 | Switch button | Max 50mA, 24V DC | 02 |
+| 03 | LED | Yellow light | 02 |
+| 04 | Resistor | 100 ohm | 02 |
+| 05 | Ground | 0V | 01 |
+| 06 | potentiometer | 1K ohm | 01 |
+| 07 | Fixed voltage | 5V | 01 |
+| 08 | Oscilloscope | --- | 01 |
+| 09 | wires | --- | 15 |
+
 
 
