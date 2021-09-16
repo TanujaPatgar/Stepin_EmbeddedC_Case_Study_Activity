@@ -16,8 +16,9 @@
 
 ## CI and Code Quality
 
-| Build | Cppcheck | Codacy |
-| ----- | -------- | ------ 
+| Build | Cppcheck | Codacy | Main |
+| ----- | -------- | ------ | ----
+|       |          |        | [![CI](https://github.com/TanujaPatgar/Stepin_EmbeddedC_Case_Study_Activity/actions/workflows/main.yml/badge.svg)](https://github.com/TanujaPatgar/Stepin_EmbeddedC_Case_Study_Activity/actions/workflows/main.yml) |
 
 ## In Action
 
