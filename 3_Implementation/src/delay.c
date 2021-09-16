@@ -14,7 +14,7 @@
  * 
  * @param delay_time in milliseconds
  */
-void delay_ms(uint32_t delay_time)
+void delay_ms(uint8_t delay_time)
 {
 	uint32_t units = 0;
 	for (units = 0; units <= delay_time; units++)
