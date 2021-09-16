@@ -88,7 +88,7 @@ The mannually control temperature will be take more times and complex to underst
 | 06 | potentiometer | 1K ohm | 01 |
 | 07 | Fixed voltage | 5V | 01 |
 | 08 | Oscilloscope | --- | 01 |
-| 09 | wires | --- | 15 |
+| 09 | wires |  | 15 |
 
 
 
