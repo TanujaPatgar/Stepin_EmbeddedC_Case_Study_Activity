@@ -10,9 +10,9 @@
 ## Functions
 
 *   When the two switches (button sensor and heater enable) are openedor any one of the switch is opened, the LED is OFF indicating heater is not enable.
-*     If both swiches are closed analog input from the temperature sensor is received and converts analog to digital value.
-*     The digital value of temperature is visualized using Pulse Width Modulation(PWM).
-*      The corresponding temperature values displayed.
+*   If both swiches are closed analog input from the temperature sensor is received and converts analog to digital value.
+*   The digital value of temperature is visualized using Pulse Width Modulation(PWM).
+*   The corresponding temperature values displayed.
 
 ## CI and Code Quality
 
