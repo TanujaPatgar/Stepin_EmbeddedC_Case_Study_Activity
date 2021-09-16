@@ -25,3 +25,13 @@
 | ON | OFF |
 | -- | --- 
 | ![image](https://user-images.githubusercontent.com/89603034/133597339-bcb81a49-c65b-4130-82f1-6c3f0a92bbcb.png) | ![image](https://user-images.githubusercontent.com/89603034/133597590-bf67ebf4-65f2-4cb5-80da-38fa0c1987ef.png) |
+
+## Folder Structure 
+| Folder | Description |
+| ------ | ----------- |
+| 1_Requirements | Documents detailing requirements and research |
+| 2_Architecture | Documents specifying design details |
+| 3_Implementation | All code and documentation |
+| 4_TestPlan | Documents with test plans and procedures |
+| 5_Simulation | Documents with simulation file and outputs |
+| 6_ImagesandVideos | Documents with output images |
