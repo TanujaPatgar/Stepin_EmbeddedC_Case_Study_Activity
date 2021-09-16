@@ -21,7 +21,7 @@ void USART_Init(uint16_t ubrrvalue)
 {   /* set baudrate*/
     UBRR0L = ubrrvalue;
     UBRR0H = (ubrrvalue>>8)&(0x00ff);
-    UCSR0C = (1<<UMSEL00)|(1<<UCSZ01)|(1<<UCSZ01);
+    UCSR0C = (1<<UMSEL00)|(1<<UCSZ01);
     /* Enable the receiver and transmitter*/
     UCSR0B = (1<<RXEN0)|(1<<TXEN0)|(1<<RXCIE0)|(1<<TXCIE0);
 
