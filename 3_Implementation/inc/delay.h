@@ -18,6 +18,6 @@
  * 
  * @param delay_time value for delay 
  */
-void delay_ms(uint32_t delay_time);
+void delay_ms(uint8_t delay_time);
 
 #endif // DELAY_H_INCLUDED
