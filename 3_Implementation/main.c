@@ -37,7 +37,7 @@ int main(void)
             {
 
                 PORTB|=(1<<PB0);/* LED is ON*/
-                delay_ms(200);
+                _delay_ms(200);
 
                 Timer_Wave_Gen_Mode();
                 pwm_output();
@@ -49,7 +49,7 @@ int main(void)
             }
              else
             {
-                delay_ms(200);
+                _delay_ms(200);
                 OCR1A = 0; /*PWM wave 0 if swicthes off */
                 PORTB&=~(1<<PB0);/* LED off*/
 
@@ -59,7 +59,7 @@ int main(void)
         {
             PORTB&=~(1<<PB0); /* LED off*/
              OCR1A = 0; /*PWM wave 0 if switches off */
-                delay_ms(200);
+                _delay_ms(200);
 
 
         }
