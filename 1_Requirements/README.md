@@ -7,8 +7,8 @@ The heat control system is used to control the temperature of a vehicle seat. Wh
 ## Features and Functionality
 
 ### Features
-*  Button Sensor will check the passenger is seated or not.
-*  Temperature sensor works as shown in belo table.
+*   Button Sensor will check the passenger is seated or not.
+*   Temperature sensor works as shown in belo table.
 *   Display CDD-CRO will give the temperature value by showing PWM.
 *   Heater will check the heater button is ON.
 *   Display temperature value using USART communication protocol.
@@ -23,25 +23,25 @@ The heat control system is used to control the temperature of a vehicle seat. Wh
 | 710-1024                       | 95% - 33'C |
 ### Functions
 
-*  When the two switches (button sensor and heater enable) are openedor any one of the switch is opened, the LED is OFF indicating heater is not enable.
+*   When the two switches (button sensor and heater enable) are openedor any one of the switch is opened, the LED is OFF indicating heater is not enable.
 *   If both swiches are closed analog input from the temperature sensor is received and converts analog to digital value.
-*  The digital value of temperature is visualized using Pulse Width Modulation(PWM).
-*  The corresponding temperature values displayed.
+*   The digital value of temperature is visualized using Pulse Width Modulation(PWM).
+*   The corresponding temperature values displayed.
 
 ## Benefits
 
-*  Maintaining optimal temperature in the vehicle compartment over time.
+*   Maintaining optimal temperature in the vehicle compartment over time.
 *   Control temperature of car.
-*  Cost effective.
-*  Promotes less suffocation and nauseous. 
-*  Provides flexibility, user friendly and better performance.
+*   Cost effective.
+*   Promotes less suffocation and nauseous. 
+*   Provides flexibility, user friendly and better performance.
 
 ## Defining our system
 
-*  If passengers seated button sensor will activate and we need to enable heater sensor for temperature readings.
-*  The temperature sensor analog outputs will converts to digital using ADC (Analog to Digital Converter).
+*   If passengers seated button sensor will activate and we need to enable heater sensor for temperature readings.
+*   The temperature sensor analog outputs will converts to digital using ADC (Analog to Digital Converter).
 *   The digital outputs of ADC display in CDD-CRO will give the temperature value by showing PWM.
-*  Display digitalized output in serial monitor using USART.
+*   Display digitalized output in serial monitor using USART.
 
 ## SWOT Analysis
 
